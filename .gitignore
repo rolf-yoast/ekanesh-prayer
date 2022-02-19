@@ -1,1 +1,8 @@
-vendor
+vendor/bin
+vendor/dealerdirect
+vendor/php-parallel-lint
+vendor/phpcompatibility
+vendor/squizlabs
+vendor/symfony
+vendor/wp-coding-standards
+vendor/yoast
