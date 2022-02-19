@@ -1,0 +1,15 @@
+{
+    "config": {
+		"platform-check": false
+	},
+	"autoload": {
+		"psr-4": {
+			"Ekanesh_prayer\\": "src"
+		},
+		"classmap": ["src"]
+   },
+    "require-dev": {
+        "yoast/yoastcs": "^2.2",
+        "symfony/var-dumper": "^6.0"
+    }
+}
